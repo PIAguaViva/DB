@@ -1,2 +1,3 @@
 # Planejamento
-Este repositório armazenará o planejamento do banco de dados.
+
+### Este repositório armazenará o planejamento do banco de dados.
